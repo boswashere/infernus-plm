@@ -15,7 +15,7 @@ print(f'''\u001b[32m
 channelID =  1134970063867351080
 headers = {
     "authorization":
-    "MTEyNzI3Mjc1NjAwMjcwNTQ5OA.GfNE0W.OiCiDQZceVeIiUxe6OiLPzeBaSKvkG67RgC2Sc"
+    ""
 }
 file = open("alo.txt", "r")
 lines = file.readlines()
